@@ -8,6 +8,11 @@ parameters.
 
 26. use the entry set method.
 
-27. 
+34. similarities: They are both iterable, They are both unsyncronized (no particular order), They both grow as elements are added.
+
+Differences: HashSets do not allow duplicates while the ArrayList does, The HashSet does not guarantee the order
+of elements, HashSet allows constant time while the Array list allows amortized constant time.
+
+
 
 

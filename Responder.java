@@ -22,7 +22,10 @@ public class Responder
 
     private void fillResponseMap()
     {
-        
+        responseMap.put("LeBron",
+                        """
+                        LeBron Raymone James Sr. is an American professional basketball player  the Los Angeles Lakers of the National Basketball Association.
+                        """);
     }
     
     /**

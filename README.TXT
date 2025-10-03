@@ -24,6 +24,12 @@ of elements, HashSet allows constant time while the Array list allows amortized 
 
 36. no it still compiles
 
+40. I would create another hashmap to identify the synonyms
+
+41. I would find the matching words and add a better answer
+
+42. I would enter words like "why", "how" and "who"
+
 
 
 

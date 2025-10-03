@@ -10,6 +10,11 @@ public class MapTester
 {
     // instance variables - replace the example below with your own
     private int x;
+     
+    HashMap<String, String> contacts = new HashMap<>();
+    contacts.put("Charles Nguyen", "(531) 9392 4587");
+    contacts.put("Lisa Jones", "(402) 4536 4674");
+    contacts.put("Hiroshi Ito", "(998) 5
 
     /**
      * Constructor for objects of class MapTester

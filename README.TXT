@@ -20,6 +20,10 @@ the type of keys maintained by this map. To use it you must set the values of K 
 Differences: HashSets do not allow duplicates while the ArrayList does, The HashSet does not guarantee the order
 of elements, HashSet allows constant time while the Array list allows amortized constant time.
 
+35. an ArrayList returns it at random
+
+36. no it still compiles
+
 
 
 
